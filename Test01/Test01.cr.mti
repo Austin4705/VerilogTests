@@ -1,0 +1,22 @@
+C:/Users/austi/Files/Repositorys/VerilogTests/Test01/end_struct_tb.v {1 {vlog -work work -stats=none C:/Users/austi/Files/Repositorys/VerilogTests/Test01/end_struct_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module end_struct_tb
+
+Top level modules:
+	end_struct_tb
+
+} {} {}} C:/Users/austi/Files/Repositorys/VerilogTests/Test01/Test01.v {1 {vlog -work work -stats=none C:/Users/austi/Files/Repositorys/VerilogTests/Test01/Test01.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module pls
+
+Top level modules:
+	pls
+
+} {} {}} C:/Users/austi/Files/Repositorys/VerilogTests/Test01/and_struct.v {1 {vlog -work work -stats=none C:/Users/austi/Files/Repositorys/VerilogTests/Test01/and_struct.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module and_struct
+
+Top level modules:
+	and_struct
+
+} {} {}}

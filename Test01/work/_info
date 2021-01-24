@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/austi/Files/Repositorys/VerilogTests
+vand_struct
+Z0 !s110 1611514526
+!i10b 1
+!s100 [QBJ71dP]UQfXnhF?JM1n2
+IE3fkS5DgOOJ<YS04Z]96g0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/austi/Files/Repositorys/VerilogTests/Test01
+w1611436419
+8C:/Users/austi/Files/Repositorys/VerilogTests/Test01/and_struct.v
+FC:/Users/austi/Files/Repositorys/VerilogTests/Test01/and_struct.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1611514526.000000
+!s107 C:/Users/austi/Files/Repositorys/VerilogTests/Test01/and_struct.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austi/Files/Repositorys/VerilogTests/Test01/and_struct.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vend_struct_tb
+!s110 1611514607
+!i10b 1
+!s100 6o9Pi944Acl9G[J8V2E@61
+IhYD4dR=Ufazc^dJi[?en;0
+R1
+R2
+w1611467447
+8C:/Users/austi/Files/Repositorys/VerilogTests/Test01/end_struct_tb.v
+FC:/Users/austi/Files/Repositorys/VerilogTests/Test01/end_struct_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1611514607.000000
+!s107 C:/Users/austi/Files/Repositorys/VerilogTests/Test01/end_struct_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austi/Files/Repositorys/VerilogTests/Test01/end_struct_tb.v|
+!s101 -O0
+!i113 1
+R5
+vpls
+R0
+!i10b 1
+!s100 g6fKgZ>?H;5?@zfcE`AoE2
+IB^;F:DbPcBAjj_aXf34ED2
+R1
+R2
+w1611393868
+8C:/Users/austi/Files/Repositorys/VerilogTests/Test01/Test01.v
+FC:/Users/austi/Files/Repositorys/VerilogTests/Test01/Test01.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/austi/Files/Repositorys/VerilogTests/Test01/Test01.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austi/Files/Repositorys/VerilogTests/Test01/Test01.v|
+!s101 -O0
+!i113 1
+R5
